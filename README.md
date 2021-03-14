@@ -3,9 +3,9 @@
   ![MIT](https://img.shields.io/badge/license-MIT-blue)
     
   ## Description
-    A budget tracker PWA that works offline and can be downloaded.
+  A budget tracker PWA that works offline and can be downloaded.
 
-    This can be viewed at https://fathomless-crag-37156.herokuapp.com/
+  This can be viewed at https://fathomless-crag-37156.herokuapp.com/
 
   ## Table of Contents
   * [Installation](#installation)
